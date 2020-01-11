@@ -9,7 +9,7 @@
   caozx           2020/1/11 16:03       单例模式-懒汉模式-线程安全
  */
 
-package main.algorithms.the_sword_refers_to_offer.singleton;
+package algorithms.the_sword_refers_to_offer.singleton;
 
 
 /**

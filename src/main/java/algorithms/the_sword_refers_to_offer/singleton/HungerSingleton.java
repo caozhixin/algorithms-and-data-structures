@@ -9,7 +9,7 @@
   caozx           2020/1/11 16:18       饿汉模式-不涉及线程-耗费资源
  */
 
-package main.algorithms.the_sword_refers_to_offer.singleton;
+package algorithms.the_sword_refers_to_offer.singleton;
 
 
 /**

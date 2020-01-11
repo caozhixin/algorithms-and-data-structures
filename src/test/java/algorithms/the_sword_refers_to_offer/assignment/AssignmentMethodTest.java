@@ -1,7 +1,5 @@
-package test.algorithms.the_sword_refers_to_offer.assignment;
+package algorithms.the_sword_refers_to_offer.assignment;
 
-
-import main.algorithms.the_sword_refers_to_offer.assignment.CMyString;
 
 
 

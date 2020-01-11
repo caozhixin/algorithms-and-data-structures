@@ -9,7 +9,7 @@
   caozx           2020/1/11 16:28       静态内部类
  */
 
-package main.algorithms.the_sword_refers_to_offer.singleton;
+package algorithms.the_sword_refers_to_offer.singleton;
 
 
 /**
