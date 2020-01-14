@@ -9,11 +9,11 @@
   caozx           2020/1/11 16:11       单例模式-懒汉模式-给方法加锁-双重检测-线程安全-效率提升
  */
 
-package algorithms.the_sword_refers_to_offer.singleton;
+package algorithms.coding_interviews.question02_singleton;
 
 
 /**
- * 〈单例模式-懒汉模式-给方法加锁-双重检测-线程安全-效率提升〉
+ * 〈面试题2：单例模式-懒汉模式-给方法加锁-双重检测-线程安全-效率提升〉
  *
  * @author caozx
  * @date 2020/1/11 16:11

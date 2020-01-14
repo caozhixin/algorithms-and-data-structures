@@ -9,11 +9,11 @@
   caozx           2020/1/11 16:28       静态内部类
  */
 
-package algorithms.the_sword_refers_to_offer.singleton;
+package algorithms.coding_interviews.question02_singleton;
 
 
 /**
- * 〈静态内部类〉
+ * 〈面试题2：单例模式-静态内部类〉
  * 通过静态内部类的方式进行, 达到按需创建的目的
  *
  * @author caozx

@@ -9,11 +9,11 @@
   caozx           2020/1/11 15:59       单例模式-懒汉模式-非线程安全
  */
 
-package algorithms.the_sword_refers_to_offer.singleton;
+package algorithms.coding_interviews.question02_singleton;
 
 
 /**
- * 〈单例模式-懒汉模式-非线程安全〉
+ * 〈面试题2：单例模式-懒汉模式-非线程安全〉
  *
  * @author caozx
  * @date 2020/1/11 15:59

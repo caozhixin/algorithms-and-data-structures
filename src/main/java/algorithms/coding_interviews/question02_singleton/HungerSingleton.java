@@ -9,11 +9,11 @@
   caozx           2020/1/11 16:18       饿汉模式-不涉及线程-耗费资源
  */
 
-package algorithms.the_sword_refers_to_offer.singleton;
+package algorithms.coding_interviews.question02_singleton;
 
 
 /**
- * 〈饿汉模式-不涉及线程-耗费资源〉
+ * 〈面试题2：单例模式-饿汉模式-不涉及线程-耗费资源〉
  *
  * @author caozx
  * @date 2020/1/11 16:18

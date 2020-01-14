@@ -9,11 +9,11 @@
   caozx           2020/1/11 16:03       单例模式-懒汉模式-线程安全
  */
 
-package algorithms.the_sword_refers_to_offer.singleton;
+package algorithms.coding_interviews.question02_singleton;
 
 
 /**
- * 〈单例模式-懒汉模式-给方法加锁-线程安全-但效率较低〉
+ * 〈面试题2：单例模式-懒汉模式-给方法加锁-线程安全-但效率较低〉
  *
  * @author caozx
  * @date 2020/1/11 16:03

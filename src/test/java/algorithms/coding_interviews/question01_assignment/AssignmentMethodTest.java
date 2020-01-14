@@ -1,4 +1,4 @@
-package algorithms.the_sword_refers_to_offer.assignment;
+package algorithms.coding_interviews.question01_assignment;
 
 
 
