@@ -29,7 +29,7 @@ public class HungerSingleton {
 
     }
 
-    public HungerSingleton getInstance() {
+    public static HungerSingleton getInstance() {
         return instance;
     }
 
